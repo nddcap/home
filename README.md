@@ -1,12 +1,9 @@
-ads , q entangled retirement ; easy tomorrow retirement ; 
-  - citizens retirement autodrive , selfdriving fire ; early auto self retire funds 
-dirt simple braindead zombie easy FIRE retirement funding 
+timing notice for partial withdraw ; liquid. ... 
 
-## Dirt Simple Zombie Easy Mechanical Retirement Funder
 
-### Topline return
+### Topline 
 
-17% per year is the target.
+17% per year is the return target.
 
 Subtract 2-3 points for tax, 0.12 for commissions (etc.), and 0.7 for management = appprox **14% cash return**. Every year. (Similar to pre-tax S&P for the prior 15 years -- [Officialdata.org](https://www.officialdata.org/us/stocks/s-p-500/2010?amount=100&endYear=2026))
 
@@ -18,14 +15,13 @@ Aggregate return is produced by combining a **steady income** strategy with an *
 
 *Dividends ( 5.5% )* : The leveraged income method produces 5 to 5.5% -- realized by harvesting dividends from IVV and SPY while eliminating movement gain (loss) with deep ITM SPX and XSP options. Index options and portfolio margin combine to allow 5x leverage. (Approx one-third of returns are expected to be qualified dividends.)
 
-*S&P Puts ( 12% )* : The active trading strategy relies on written options on SPX expiring next-day (next session if over the weekend).  This yields ~12% return on average.  
+*S&P Puts ( 12% )* : The active trading strategy uses written options on SPX expiring next-day (next session if over the weekend).  This yields ~12% return on average.  
 
-So, active strategy plus steady S&P dividends yields ~17%. (When combining trading and T-bills, yield is ~15.7%.)
+So, active strategy plus steady S&P dividends yields ~17%. (In the real world, this will range from 15 to 19%.)  When combining active trading and T-bills, yield is ~15.7%. Active trading with only the interest-on-cash base would yield ~13.5%.
 
 Sometimes a Member may be eligible for 0% long-term capital gains; that year would yield them ~16% cash.
 
-To get started please message 
-  
+To get started please message welcome@nddcap.org 
 
 ### Risks & Assumptions
 
@@ -35,6 +31,24 @@ To get started please message
 * We assume S&P overall dividends will always be 1% or more. (Anemic equity dividends could possibly be replaced with 4.5+% Treasuries.)
 
 ### FAQ
+  
+#### What fees are charged
+
+Management (performance) fee is between 4 and 9% of profit; usually 6%. No other fees or costs. 
+
+#### What is the Lockup period 
+
+Lockup period depends on the chosen strategy combination.  For example, funds devoted only to the active S&P Puts strategy would have no lockup.
+
+The combo strategy using T-bills has a 70-day lockup.
+
+And for the leveraged dividends combo -- Members must put in $70,000 *or* commit to a 295-day lockup. 
+
+A Member can divide funds among the different strategies, so different lockups (if any) would apply.  
+
+#### This other outfit is promising 20 to 30% returns
+
+A 25% trading return, after 25% performance fee, is about 18% pre-tax. 
 
 #### How is Company structured
 
@@ -47,20 +61,6 @@ Yes. Just need a current ITIN.
 > "Foreign partners must have a valid TIN (Taxpayer Identification Number), such as an ITIN, which must have been used on a return in the last three years to remain valid."
 
 https://www.irs.gov/individuals/international-taxpayers/helpful-hints-for-partnerships-with-foreign-partners
-  
-#### What fees are charged
-
-Management (performance) fee is between 4 and 9% of profit; usually 6%. No other fees or costs. 
-
-#### What is the Lockup period 
-
-The combo strategy using T-bills has a 29-day lockup.
-
-However, for the leveraged dividends combo -- Members must put in $70,000 *or* commit to a 300-day lockup. 
-
-#### This other outfit is promising 20 to 30% returns
-
-A 25% trading return, after 25% performance fee, is about 18% pre-tax. 
 
 #### What is the minimum net worth 
 
@@ -105,4 +105,8 @@ https://earlyretirementnow.com/options/
 
 No. 
 
- 
+----------
+
+![Relaxin Retiree St.Barts](./St.Barts.retiree.png) 
+
+(relaxing at St.Barts...)
