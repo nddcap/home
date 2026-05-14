@@ -1,25 +1,25 @@
-timing notice for partial withdraw ; liquid. ... 
-
 
 ### Topline 
 
 17% per year is the return target.
 
-Subtract 2-3 points for tax, 0.12 for commissions (etc.), and 0.7 for management = appprox **14% cash return**. Every year. (Similar to pre-tax S&P for the prior 15 years -- [Officialdata.org](https://www.officialdata.org/us/stocks/s-p-500/2010?amount=100&endYear=2026))
+Subtract 2-3 points for tax, 0.12 for commissions (etc.), and 0.7 for management = approx **14% cash return**. Every year. (Similar to pre-tax S&P for the prior 15 years - [Officialdata.org](https://www.officialdata.org/us/stocks/s-p-500/2010?amount=100&endYear=2026))
+
+So 150K principal would throw off ~20,250 annually.
 
 ### Method 
 
-Aggregate return is produced by combining a **steady income** strategy with an **active trading** strategy. 
+Total return is produced by combining a **steady income** strategy with an **active trading** strategy. 
 
 *T-Bills ( 3.7% )* : The basic income method uses 1- to 3-month Treasuries. (Currently 3.7%)
 
-*Dividends ( 5.5% )* : The leveraged income method produces 5 to 5.5% -- realized by harvesting dividends from IVV and SPY while eliminating movement gain (loss) with deep ITM SPX and XSP options. Index options and portfolio margin combine to allow 5x leverage. (Approx one-third of returns are expected to be qualified dividends.)
+*Dividends ( 5.5% )* : The leveraged income method produces 5 to 5.5% -- realized by harvesting dividends from equity ETFs like IVV and SPY while eliminating movement with deep ITM SPX and XSP options. SPX, IVV, SPY etc. have "near-perfect positive correlation, approaching a correlation coefficient of 1.0." Index options and portfolio margin combine to allow 5x leverage.  Approx one-third of returns are expected to be qualified dividends.
 
-*S&P Puts ( 12% )* : The active trading strategy uses written options on SPX expiring next-day (next session if over the weekend).  This yields ~12% return on average.  
+*S&P Puts ( 12% )* : The active trading strategy uses written options on SPX expiring next-day (next session if over the weekend).  This yields ~12% on average.  
 
-So, active strategy plus steady S&P dividends yields ~17%. (In the real world, this will range from 15 to 19%.)  When combining active trading and T-bills, yield is ~15.7%. Active trading with only the interest-on-cash base would yield ~13.5%.
+So, active strategy plus steady S&P dividends yields ~17%. (In the real world, this will range from 15 to 19%.)  Sometimes a Member may be eligible for 0% long-term capital gains; that year would yield them ~16% cash.
 
-Sometimes a Member may be eligible for 0% long-term capital gains; that year would yield them ~16% cash.
+(When combining active trading and T-bills, yield is ~15.7%. Active trading with only the interest-on-cash base would yield ~13.5%.)
 
 To get started please message welcome@nddcap.org 
 
@@ -29,22 +29,22 @@ To get started please message welcome@nddcap.org
 * Main risk of leveraged dividend strategy is the half-second gap involved in "legging in" to a balanced position
 * Main risk of options strategy is the unpredictability of returns, which range from 9 to 15%. (The risk timeframe is only till the next session end.)
 * We assume S&P overall dividends will always be 1% or more. (Anemic equity dividends could possibly be replaced with 4.5+% Treasuries.)
-
+ 
 ### FAQ
   
-#### What fees are charged
+#### What fees are applied
 
 Management (performance) fee is between 4 and 9% of profit; usually 6%. No other fees or costs. 
 
 #### What is the Lockup period 
 
-Lockup period depends on the chosen strategy combination.  For example, funds devoted only to the active S&P Puts strategy would have no lockup.
+Lockup period depends on the chosen strategy.  Funds devoted only to the active S&P Puts strategy would have a 35-day lockup.
 
 The combo strategy using T-bills has a 70-day lockup.
 
-And for the leveraged dividends combo -- Members must put in $70,000 *or* commit to a 295-day lockup. 
+For the leveraged dividends combo -- Members must put in $70,000 *or* commit to a 325-day lockup. 
 
-A Member can divide funds among the different strategies, so different lockups (if any) would apply.  
+A Member can divide funds among the different strategies, so different lockups would apply.  
 
 #### This other outfit is promising 20 to 30% returns
 
@@ -68,7 +68,11 @@ $15K liquid, and $150K total (house, etc.)
 
 #### What is the minimum to get started 
 
-$3000 to become a Member. You may wish to risk only a modest amount for the initial year or so. 
+$3000 to become a Member. You may wish to risk only a modest amount for the initial year. 
+
+#### How big will the partnership get
+
+Just 35 to 40 Members. 
 
 #### Can a Member learn the mechanics and do it on their own
 
@@ -76,11 +80,11 @@ Yes.
  
 #### What is the dividends strategy risk profile 
 
-If the equity market split-second moved 15% against us, 100 unhedged shares of $690 IVV (one of the two legs) would lose $10,350.  Technically possible, though very unlikely.  Another risk is uncertainty around the IRS's mixed straddle election and the timing of holdings; very esoteric. 
+If the equity market split-second fell 15%, 100 unhedged shares of $690 IVV (one of the two legs) would lose $10,350.  Technically possible, though very unlikely.  Another risk is uncertainty around IRS mixed straddle election and the timing of holdings; very esoteric. 
 
 #### What is the options strategy risk profile 
 
-Honestly, this is the world's one brain-dead-simple options play, for various reasons, mostly the vast size of the SPX index market and the constant downside hedging of equity portfolios. 
+This is the world's one brain-dead-simple options play, for various reasons, mostly the vast size of the SPX options market and the constant downside hedging of equity portfolios. 
 
 As Earlyretirementnow's BigERN wrote: 
 
@@ -93,7 +97,7 @@ BigERN has done this option play for 15+ years.  The Manager has done it for 8 y
 
 #### How does the options strategy perform in market crash 
 
-The strategy actually overperforms during "crash" periods. (More profit is gathered.) The problem is when the market *unexpectedly* begins crashing. This is rare. 
+The strategy benefits from "crash" periods. (More profit is gathered.) The problem is when the market *unexpectedly* begins crashing. This is rare. 
 
 As BigERN wrote on the Mar.2020 Covid-related super volatility:
 
@@ -101,9 +105,15 @@ As BigERN wrote on the Mar.2020 Covid-related super volatility:
 
 https://earlyretirementnow.com/options/
 
+https://earlyretirementnow.com/2021/04/21/passive-income-through-option-writing-part-6/
+
 #### Is investor capital ever lent / hypothecated
 
-No. 
+No.  All devoted to trading. 
+
+#### This other outfit has a slick website with lots of charts & numbers
+
+They have a 500K minimum and won't cooperate with you on taxes. 
 
 ----------
 
