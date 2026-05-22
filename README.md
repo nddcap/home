@@ -1,8 +1,8 @@
 ### Topline 
 
-17% per year is the return target.
+17% per year is the return target (before tax).
 
-Subtract 2-3 points for tax, 0.7 for management, 0.15 for commissions (etc.) = approx **14% cash return**. Every year. (Similar to pre-tax S&P for the prior 15 years - [Officialdata.org](https://www.officialdata.org/us/stocks/s-p-500/2010?amount=100&endYear=2026))
+Subtract 2-3 points for tax, 0.7 for management, 0.15 for commissions = approx **14% cash return**.  (Similar to pre-tax S&P for the prior 15 years - [Officialdata.org](https://www.officialdata.org/us/stocks/s-p-500/2010?amount=100&endYear=2026))
 
 So 150K principal would throw off ~20,250 after twelve months with no risk of loss.
 
@@ -10,22 +10,22 @@ So 150K principal would throw off ~20,250 after twelve months with no risk of lo
 
 Total return is realized by combining a **steady income** strategy with an **active trading** strategy. 
 
-*T-Bills ( 3.7% )* : The basic income method uses 1- to 3-month Treasuries. (Currently 3.7% and constantly changing.)
+*T-Bills ( 3.7% )* : The basic income method uses 1- to 3-month Treasuries. (Currently 3.7%, though constantly changing.)
 
-*Dividends ( 5.5% )* : The leveraged income method produces 5 to 5.5% -- realized by harvesting dividends from equity ETFs (IVV, SPY) while eliminating movement with very deep SPX and XSP options. SPX, IVV, SPY etc. have "near-perfect positive correlation, approaching a correlation coefficient of 1.0." Index options and portfolio margin combine to allow 5x leverage.  Approx one-third of returns are expected to be qualified dividends.
+*Dividends ( 5.5% )* : The leveraged income method produces 5 to 5.5% -- realized by harvesting dividends from equity ETFs (IVV, SPY) while eliminating movement with very deep SPX and XSP options.  Index options and portfolio margin combine allowing 5x leverage.  Approx one-third of returns are expected to be taxed as qualified dividends.
 
 *S&P Puts ( 12% )* : The active trading strategy uses written options on SPX expiring next-day (next session if over the weekend).  This yields ~12% on average after twelve months.  
 
-So, active strategy plus steady S&P dividends yields ~17%. (In the real world, this will range from 15 to 19%.)  Sometimes a Member may be eligible for 0% long-term capital gains; that year would yield them ~16% cash.  When combining active trading and T-bills, yield is ~15.7%. Active trading with only interest-on-cash would yield ~13.5%.
+So, active strategy plus steady S&P dividends yields ~17%. (In the real world, this will range from 15 to 19%.)  Sometimes a Member may be eligible for 0% long-term capital gains; that year would yield them ~16% cash.  When combining active trading and T-bills, yield is ~15.7%. 
 
-To get started please message welcome@nddcap.org 
+To get started, please message welcome@nddcap.org 
 
 ### Risks & Assumptions
 
 * Main risk of T-bills is having to sell early
 * Main risk of leveraged dividend strategy is the half-second gap while "legging in" to a balanced, hedged position
 * Main risk of options strategy is unpredictability of returns, which range from 9 to 15%
-* We assume S&P overall dividends will always be 1% or more. (Anemic equity dividends could possibly be replaced with Treasuries if they reach 4.5+%, or longer-term Treasuries if a member agrees.)
+* We assume S&P overall dividends will always be 1% or more 
 
 ### FAQ
   
@@ -81,7 +81,7 @@ If the equity market split-second fell 15%, 100 unhedged shares of $690 IVV (one
 
 > The most significant candidate for the largest drop in a short time frame is the May 6, 2010, "Flash Crash". During this event, the S&P 500 plunged approximately 5% in a period of roughly five minutes 
 
- Another risk is uncertainty around IRS mixed straddle election and the timing of holdings; very esoteric.  Additionally, the timing of dividends of SPX components diverges from the single, large dividend of IVV/SPY.
+ Another risk is uncertainty around IRS mixed straddle election and the timing of holdings; very esoteric.  Additionally, the timing of dividends of SPX components diverges from the single, large dividend of IVV/SPY.  
 
 #### What is the options strategy risk profile 
 
@@ -107,14 +107,6 @@ As BigERN wrote on the Mar.2020 Covid-related volatility:
 https://earlyretirementnow.com/options/
 
 https://earlyretirementnow.com/2021/04/21/passive-income-through-option-writing-part-6/
-
-#### Is investor capital ever lent / hypothecated
-
-No.  
-
-#### This other outfit has a slick website with lots of charts & numbers
-
-They have a 500K minimum and won't cooperate with you on taxes. 
 
 ----------
 
